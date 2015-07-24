@@ -1,0 +1,1 @@
+spark_master http://hostname.to.spark.master:8080
